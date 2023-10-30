@@ -1,0 +1,27 @@
+{
+  "name": "projetoppim1",
+  "version": "1.0.0",
+  "description": "Projeto do exercicio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acvelasco/ProjetoPPIM1.git"
+  },
+  "keywords": [
+    "exercicio"
+  ],
+  "author": "Any Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acvelasco/ProjetoPPIM1/issues"
+  },
+  "homepage": "https://github.com/acvelasco/ProjetoPPIM1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
